@@ -7,7 +7,7 @@ How can I use it ?
 ==================
 
 * Add rssReader.js in your HTML script.
-* In your HTML, create an HTML Bloc (<div>, <p>, <section> ...) and add some options.
+* In your HTML, create an HTML Bloc ( ``html <div>, <p>, <section> `` ...) and add some options.
 
 For each feed you want to parse and display, you have to describe 4 options:
 
